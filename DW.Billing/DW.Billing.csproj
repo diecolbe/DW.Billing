@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DW.Billing.Models\DW.Billing.Models.csproj" />
+    <ProjectReference Include="..\DW.Billing.Services\DW.Billing.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

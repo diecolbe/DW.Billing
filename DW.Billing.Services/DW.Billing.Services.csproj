@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DW.Billing.Common\DW.Billing.Common.csproj" />
+    <ProjectReference Include="..\DW.Billing.Models\DW.Billing.Models.csproj" />
+    <ProjectReference Include="..\DW.Billing.ORM\DW.Billing.ORM.csproj" />
+  </ItemGroup>
+
+</Project>
