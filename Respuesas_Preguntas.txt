@@ -7,6 +7,6 @@ R:// Crear tareas asincronas en la capa de servicios
 3-¿Qué otras tecnologías manejaría o cambiaría dentro de su implementación?
 R:// Se implemento el Micro ORM Dapper ya que esta calificado como uno de los mas optimos, en la arquitectura
      presentada se implemento un manejador para la ejecucion de querys que podrian tener un nivel de complejidad 
-	 bastante algo.
+	 bastante alto.
 	 
 	
